@@ -2,3 +2,5 @@
 # Eng:
 
 # Solution
+list.remove(4)
+print(list)

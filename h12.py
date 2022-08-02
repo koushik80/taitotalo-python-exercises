@@ -3,3 +3,7 @@
 # Eng:
 
 # Solution:
+list.append(False)
+list.sort()
+print(list)
+print(list.sort())
