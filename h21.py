@@ -2,3 +2,6 @@
 # Eng:
 
 # Solution
+list = ["Helsinki", "Stockholm", "Oslo"]
+for city in list:
+    print(f'Good morning {city}!')
